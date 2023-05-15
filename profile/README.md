@@ -15,7 +15,7 @@ Promo 1 Développeur.se Web et Web Mobile 2023 - Villeneuve-d'Ascq
 &nbsp;&nbsp;
 ![img_javascript](./profile/img/javascript.svg)
 
-## Developers
+## Developer achievements
 
 | Briefs | Technologies | <a href="https://github.com/Nhours">Sébastien</a> | <a href="https://github.com/SanaSanss">Fouzia</a> | <a href="https://github.com/CybLiz">Liza</a> | <a href="https://github.com/danebourhan">Dane</a> | <a href="https://github.com/BretonN">Nicolas</a> | <a href="https://github.com/Alexisdelecroix">Alexis</a> | <a href="https://github.com/CarolineDzx">Caroline</a> | <a href="https://github.com/Archimonde32">Killian</a> | <a href="https://github.com/Theo0259">Théo</a> | <a href="https://github.com/JeanPierreF">Jean-Pierre</a> | <a href="https://github.com/Nekoma59">Renaud</a> | <a href="https://github.com/JeremyQ59">Jérémy</a> |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
